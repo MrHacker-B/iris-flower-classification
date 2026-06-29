@@ -118,7 +118,7 @@ Evaluation Metrics:
 
 Clone the repository:
 
-git clone https://github.com/your-username/iris-flower-classification.git
+git clone https://github.com/MrHacker-B/iris-flower-classification.git
 
 Move into the project folder:
 
